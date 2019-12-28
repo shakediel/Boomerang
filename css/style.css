@@ -497,6 +497,15 @@ input[type=checkbox]:checked+label:after {
     transition: linear .2s;
 }
 
+
+/*.result-card-img {*/
+/*    background-image: url(../images/flight-cage.jpg);*/
+/*    background-repeat: no-repeat;*/
+/*    background-position: center center;*/
+/*    position: relative;*/
+/*    height: 160px;*/
+/*}*/
+
 .result-card-img-sec {
     background-image: url(../images/flight-cage.jpg);
     background-repeat: no-repeat;
